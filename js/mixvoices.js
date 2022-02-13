@@ -4,24 +4,28 @@
 
 // All thee voice data. id=base name for audio file, name=how to display on page, segments indicate which of the ones the voices are availble
 var people = [
-	{"id" : "moira" , "name" : "Moira", "segments" : [1,2,3,4,5]}, 
-	{"id" : "alex" , "name" : "Alex", "segments" : [1,2,3,4,5]}, 
-	{"id" : "tessa" , "name" : "Tessa", "segments" : [1,2,3,4,5]}, 
-	{"id" : "xander" , "name" : "Xander", "segments" : [1,2,3,4,5]}, 
-	{"id" : "daniel" , "name" : "Daniel", "segments" : [1,2,3,4,5]}, 
-	{"id" : "samantha" , "name" : "Samantha", "segments" : [1,2,3,4,5]}, 
-	{"id" : "fred" , "name" : "Fred", "segments" : [1,2,3,4,5]}, 
+	{"id" : "kevin" , "name" : "Kevin", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "sheri" , "name" : "Sheri", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "terry" , "name" : "Terry", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "charlene" , "name" : "Charlene", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "sarah" , "name" : "Sarah", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "alan" , "name" : "Alan", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "wendy" , "name" : "Wendy", "segments" : [1,2,3,4,5,6,7,8,9]}, 
 	
 ];
 
 // the text for each segment, will be displayed under speakers name as it plays
 
 var segment_text = [
-	"To make a prairie it takes a clover and one bee",
-	"One clover, and a bee",
-	"And revery",
-	"The revery alone will do",
-	 "If bees are few"
+	"Voice",
+	"Word",
+	"Poem",
+	"Whose voice is this?",
+	 "a crackle in the dust from the corner of the room",
+	"Whose word is this?",
+	"remnants of the rust of a song sung out of tune",
+	"Whose poem is this?",
+	"ink scratched with brush, stories from a falling moon"
 ]
 
 // number of segments in this mix
