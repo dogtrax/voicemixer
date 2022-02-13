@@ -29,7 +29,7 @@ var segment_text = [
 ]
 
 // number of segments in this mix
-var numsegments = 5; 
+var numsegments = 9; 
 
 // lame I know, global variables. Ugly. Sue me
 
