@@ -10,7 +10,9 @@ var people = [
 	{"id" : "charlene" , "name" : "Charlene", "segments" : [1,2,3,4,5,6,7,8,9]}, 
 	{"id" : "sarah" , "name" : "Sarah", "segments" : [1,2,3,4,5,6,7,8,9]}, 
 	{"id" : "alan" , "name" : "Alan", "segments" : [1,2,3,4,5,6,7,8,9]}, 
-	{"id" : "wendy" , "name" : "Wendy", "segments" : [1,2,3,4,5,6,7,8,9]}, 
+	{"id" : "wendy" , "name" : "Wendy", "segments" : [1,2,3,4,5,6,7,8,9]},
+	{"id" : "ron" , "name" : "Ron", "segments" : [1,2,3,4,5,6,7,8,9]},
+	{"id" : "jen" , "name" : "Jennifer", "segments" : [1,2,3,4,5,6,7,8,9]},
 	
 ];
 
