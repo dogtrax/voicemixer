@@ -14,6 +14,7 @@ var people = [
 	{"id" : "ron" , "name" : "Ron", "segments" : [1,2,3,4,5,6,7,8,9]},
 	{"id" : "jen" , "name" : "Jennifer", "segments" : [1,2,3,4,5,6,7,8,9]},
 	{"id" : "lauren" , "name" : "Lauren", "segments" : [1,2,3,4,5,6,7,8,9]},
+	{"id" : "greg" , "name" : "Greg", "segments" : [1,2,3,4,6,8]},
 	
 ];
 
